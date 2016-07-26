@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IRSI.SOSFileUploaderNet4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SOSFileUploader_LogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp</Value>
+    </Setting>
+    <Setting Name="SOSApi_ApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:50000</Value>
+    </Setting>
+    <Setting Name="SOSApi_ClientId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ClientId</Value>
+    </Setting>
+    <Setting Name="SOSApi_ClientSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ClientSecret</Value>
+    </Setting>
+    <Setting Name="IdentityServer_TokenEndpointUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:51000/connect/token</Value>
+    </Setting>
+    <Setting Name="SOSFileUploader_StoreId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SOSFileUploader_QsrSOSPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp\QSR</Value>
+    </Setting>
+    <Setting Name="SOSFileUploader_HistoryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp\history.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
